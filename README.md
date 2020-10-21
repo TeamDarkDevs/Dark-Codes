@@ -14,6 +14,13 @@
   <a href="https://github.com/TeamDarkDevs/DarkDevelopers/LISENCE">
     <img src="https://img.shields.io/badge/license-GNU%20GPL%20v3-green" alt="shield.png">
   </a>
+  
+    
+  <a href="https://github.com/TeamDarkDevs/DarkDevelopers">
+    <img src="https://visitors-badge.glitch.me/badge?page_id=deltacoderr.deltacoderr" alt="shield.png">
+  </a>
+  
+  
 <br>
 <br>
 
