@@ -14,3 +14,5 @@
   <a href="https://github.com/TeamDarkDevs/DarkDevelopers/LISENCE">
     <img src="https://img.shields.io/badge/license-GNU%20GPL%20v3-green" alt="shield.png">
   </a>
+
+> :warning: **All our work is licensed so please give us credits!
