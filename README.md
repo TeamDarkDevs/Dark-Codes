@@ -81,7 +81,7 @@
 
 | User          | Most Used Stats        | Role        |
 | ------------- |:----------------------:| -----------:|
-| DarkBoy       | <img align="left" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaCoderr&theme=tokyonight&hide=batchfile"> <br><br><br> | Owner       |
+| DarkBoy       | <img align="center" src="https://github-readme-stats.vercel.app/api?username=deltacoderr&show_icons=true&hide_border=true&theme=tokyonight"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeltaCoderr&theme=tokyonight&hide=batchfile"> <br><br><br> | Owner       |
 
 
 
