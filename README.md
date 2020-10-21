@@ -41,6 +41,6 @@
 ## Our Discord Server 
 
 
-<a href="https://invidget.switchblade.xyz/devs">
+<a href="https://support.switchblade.xyz">
   <img src="https://invidget.switchblade.xyz/devs" alt="shield.png">
 </a>
