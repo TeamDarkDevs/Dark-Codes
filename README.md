@@ -40,4 +40,7 @@
 
 ## Our Discord Server 
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/devs)](https://discord.gg/NR74Pku)
+
+<a href="https://invidget.switchblade.xyz/devs">
+  <img src="https://invidget.switchblade.xyz/devs" alt="shield.png">
+</a>
