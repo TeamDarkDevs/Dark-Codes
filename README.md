@@ -18,3 +18,14 @@
 <br>
 
  :warning: **All our work is licensed so please give us credits!**
+
+<br><br>
+
+## Dark Developers 
+
+| Developers    | Languages         | Role        |
+| ------------- |:-----------------:| -----------:|
+| DarkBoy       | Javascript,Python | Owner       |
+| DarkNoah      | Javascript        | Owner       |
+| Delta         | Javascript,Python | Co Owner    |
+| PixelJayden   | Javascript,HTML   | Ex Co Owner |
