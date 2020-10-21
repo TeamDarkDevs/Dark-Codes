@@ -40,7 +40,6 @@
 
 ## Our Discord Server 
 
-
 <a href="https://support.switchblade.xyz">
-  <img src="https://invidget.switchblade.xyz/devs" align="center">
+  <img src="https://invidget.switchblade.xyz/devs" align="right">
 </a>
