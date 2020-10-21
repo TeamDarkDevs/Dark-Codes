@@ -28,14 +28,29 @@
 
 <br><br>
 
-## Dark Developers 
+## ✨ Dark Developers 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/DeltaCoderr/Covid-19-Tracker)&nbsp;
 
-| Developers    | Languages         | Role        |
-| ------------- |:-----------------:| -----------:|
-| DarkBoy       | Javascript,Python | Owner       |
-| DarkNoah      | Javascript        | Owner       |
-| Delta         | Javascript,Python | Co Owner    |
-| PixelJayden   | Javascript,HTML   | Ex Co Owner |
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<table>
+  <tr>
+     <td align="center"><a href="https://github.com/DeltaCoderr"><img src="https://avatars0.githubusercontent.com/u/51528076?s=460&u=d1e28ca661a14f0b3428cc07dd410f36f891966b&v=4" width="100px;" alt=""/><br /><sub><b>DeltaCoderr</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DeltaCoderr" title="Developer">💻</a></td>
+     <td align="center"><a href="https://github.com/DarkBoy-js"><img src="https://avatars0.githubusercontent.com/u/12939625?s=400&u=9814258f07c0a6d2a3f28cddf2dfefbab6f39b2e&v=4" width="100px;" alt=""/><br /><sub><b>DarkBoy</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=pandurijal" title="Developer">💻</a></td>
+     <td align="center"><a href="https://github.com/DarkNoahDev"><img src="https://avatars0.githubusercontent.com/u/59475060?s=400&v=4" width="100px;" alt=""/><br /><sub><b>DarkNoah</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=ujjwalravi" title="Developer">💻</a></td>
+     <td align="center"><a href="https://github.com/PixelJayden"><img src="https://avatars2.githubusercontent.com/u/33445861?s=400&u=526c40a2111122a95a807f12263ff5ae61a1ee7b&v=4" width="100px;" alt=""/><br /><sub><b>PixelJayden</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=t6tg" title="Developer">💻</a></td>
+  </tr>
+  
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 
 ## Langauges And Tools
 
