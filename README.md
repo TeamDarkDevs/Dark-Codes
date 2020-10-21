@@ -50,8 +50,3 @@
   <img src="cJEx49.svg" align="center">
 </a>
 
-## Latest Video
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=qE3aeLySDKk
-" target="_blank"><img src="http://img.youtube.com/vi/qE3aeLySDKk/0.jpg" 
-alt="youtubevideo" width="1280" height="720" border="10" /></a>
