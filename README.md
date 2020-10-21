@@ -42,5 +42,5 @@
 
 
 <a href="https://support.switchblade.xyz">
-  <img src="https://invidget.switchblade.xyz/2FB8wDG" align="right">
+  <img src="https://invidget.switchblade.xyz/2FB8wDG" align="center">
 </a>
