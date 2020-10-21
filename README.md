@@ -50,7 +50,7 @@
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 
-## Langauges And Tools
+## 💫 Languages And Tools
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -66,7 +66,7 @@
 <code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
 <code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
 
-## 📝 Our Discord Server 
+## 📝 Our Discord Servers
 
 <a href="https://discord.gg/C7jxv8Z">
   <img src="devs.svg" align="center">
