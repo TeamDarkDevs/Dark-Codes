@@ -43,6 +43,9 @@
 <a href="https://discord.gg/C7jxv8Z">
   <img src="devs.svg" align="center">
 </a>
+
+<br><br>
+
 <a href="https://discord.gg/cJEx49">
   <img src="cJEx49.svg" align="center">
 </a>
