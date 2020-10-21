@@ -70,5 +70,5 @@
 
 **Below this will be developers information at the end were all developers it dosent matter!**
 
-## [Darky](
+## Adding Soon!
 
