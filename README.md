@@ -1,4 +1,4 @@
-  <a href="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"><img src="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"></a>
+  <a href="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"><img src="https://prnt.sc/v3kw9m"></a>
 
  <div align=center>
 
