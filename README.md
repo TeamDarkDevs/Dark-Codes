@@ -82,7 +82,6 @@
 | User          | Most Used Stats        | Role        |
 | ------------- |:----------------------:| -----------:|
 | DarkBoy       | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkboy-js&show_icons=true&hide_border=true&theme=tokyonight"> <br><br><br> | Owner       |
-| ------------- |:----------------------:| -----------:|
 | DarkBoy       | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkboy-js&theme=tokyonight&hide=batchfile"> | Owner       |
 
 
