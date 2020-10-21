@@ -66,7 +66,7 @@
 <code><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></code>
 <code><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
 
-## Our Discord Server 
+## 📝 Our Discord Server 
 
 <a href="https://discord.gg/C7jxv8Z">
   <img src="devs.svg" align="center">
