@@ -40,8 +40,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
      <td align="center"><a href="https://github.com/DeltaCoderr"><img src="https://avatars0.githubusercontent.com/u/51528076?s=460&u=d1e28ca661a14f0b3428cc07dd410f36f891966b&v=4" width="100px;" alt=""/><br /><sub><b>DeltaCoderr</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DeltaCoderr" title="Developer">💻</a></td>
-     <td align="center"><a href="https://github.com/DarkBoy-js"><img src="https://avatars0.githubusercontent.com/u/12939625?s=400&u=9814258f07c0a6d2a3f28cddf2dfefbab6f39b2e&v=4" width="100px;" alt=""/><br /><sub><b>DarkBoy</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=pandurijal" title="Developer">💻</a></td>
-     <td align="center"><a href="https://github.com/DarkNoahDev"><img src="https://avatars0.githubusercontent.com/u/59475060?s=400&v=4" width="100px;" alt=""/><br /><sub><b>DarkNoah</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=ujjwalravi" title="Developer">💻</a></td>
+     <td align="center"><a href="https://github.com/DarkBoy-js"><img src="https://avatars3.githubusercontent.com/u/71411869?s=400&u=7f8e4008818e748e390cfcaf1db4b33f42c8b06e&v=4" width="100px;" alt=""/><br /><sub><b>DarkBoy</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkBoy-js" title="Developer">💻</a></td>
+     <td align="center"><a href="https://github.com/DarkNoahDev"><img src="https://avatars0.githubusercontent.com/u/69770663?s=400&u=36114e7f2420e48c3fbe622849e4cf35c710bb94&v=4" width="100px;" alt=""/><br /><sub><b>DarkNoah</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkNoahDev" title="Developer">💻</a></td>
      <td align="center"><a href="https://github.com/PixelJayden"><img src="https://avatars2.githubusercontent.com/u/33445861?s=400&u=526c40a2111122a95a807f12263ff5ae61a1ee7b&v=4" width="100px;" alt=""/><br /><sub><b>PixelJayden</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=t6tg" title="Developer">💻</a></td>
   </tr>
   
