@@ -17,4 +17,4 @@
 <br>
 <br>
 
-> :warning: **All our work is licensed so please give us credits!**
+ :warning: **All our work is licensed so please give us credits!**
