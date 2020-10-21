@@ -36,3 +36,9 @@
 | DarkNoah      | Javascript        | Owner       |
 | Delta         | Javascript,Python | Co Owner    |
 | PixelJayden   | Javascript,HTML   | Ex Co Owner |
+
+## Our Discord Server!
+
+  <a href="https://invidget.switchblade.xyz/devs">
+    <img src="https://invidget.switchblade.xyz/devs" alt="shield.png">
+  </
