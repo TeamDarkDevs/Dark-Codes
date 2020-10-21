@@ -38,3 +38,6 @@
 | PixelJayden   | Javascript,HTML   | Ex Co Owner |
 
 
+## Our Discord Server 
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/devs)](https://discord.gg/NR74Pku)
