@@ -65,56 +65,6 @@
   <img src="cJEx49.svg" align="center">
 </a>
 
-## Developers Information
-
-**Below this will be developers information at the end were all developers it dosent matter!**
-
-## [Darky <3](https://github.com/Darkboy-js/)
 
 
-
-
-| User          | Info Stats        | Role        |
-| ------------- |:-----------------:| -----------:|
-| DarkBoy       | <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Darkboy-js&theme=dracula&count_private=true"></div> | Owner       |
-
-| User          | Most Used Stats        | Role        |
-| ------------- |:----------------------:| -----------:|
-| DarkBoy       | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Darkboy-js&show_icons=true&hide_border=true&theme=tokyonight"> <br><br><br> | Owner       |
-| DarkBoy       | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkboy-js&theme=tokyonight&hide=batchfile"> | Owner       |
-
-
-# Darky Social Medias <3 
-
-<a href="https://discord.gg/YsFTYxU">
-  <img align="center" alt="Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/darkboy">
-  <img align="center" alt="Ohidur Rahman Bappy's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
- <a href="https://github.com/Darkboy-js">
-  <img align="center" alt="Darkboy Github's" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/darkboyh2/">
-  <img align="center" alt="DarkBoy's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<br />
-
-# About Darky 
-
-I am a passionate self-taught programmer from Saudi Arbia.
- - 🌱 I’m currently learning EJS
-- 💬 Ask me about anything [here](https://discord.gg/YsFTYxU)
-- 📫 Add Me On Discord? ! Darkboy🍭#0001
-- 🥅 2020 Goals: Contribute more to Open Source projects
-
-**Languages and Tools:** &nbsp;
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
- <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
- 
- ### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Glitch Uptimer Bot](https://www.youtube.com/watch?v=qE3aeLySDKk)
- <!-- YOUTUBE:END -->
 
