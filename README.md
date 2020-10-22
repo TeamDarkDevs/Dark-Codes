@@ -70,15 +70,10 @@
 
 ## 📝 Our Discord Servers
 
-<a href="https://discord.gg/C7jxv8Z">
-  <img src="devs.svg" align="center">
-</a>
-
+<a href="https://discord.gg/devs"><img src="https://discordapp.com/api/guilds/733807204938940447/embed.png?style=banner3"/></a>
 <br><br>
 
-<a href="https://discord.gg/cJEx49">
-  <img src="cJEx49.svg" align="center">
-</a>
+<a href="https://discord.gg/cJEx49"><img src="https://discordapp.com/api/guilds/765274736157524019/embed.png?style=banner3"/></a>
 
 
 
