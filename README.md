@@ -71,7 +71,7 @@
 <code align="left"><img height="20" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></code>
 <code align="left"><img height="20" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" /></code>
 </p>
-<p align="left">- 🛢 &nbsp;
+<p align="left">- 💾 &nbsp;
 <code align="left"><img height="20" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></code>
 <code align="left"><img height="20" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></code>
 </p>
