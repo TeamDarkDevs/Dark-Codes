@@ -76,7 +76,7 @@
 <code align="left"><img height="20" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></code>
 </p>
 
-## 📝 Our Discord Servers
+## 📝 Discord Server
 
 <a href="https://discord.gg/devs"><img src="https://discordapp.com/api/guilds/733807204938940447/embed.png?style=banner3"/></a>
 <br><br>
