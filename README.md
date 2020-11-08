@@ -41,8 +41,6 @@
      <td align="center"><a href="https://github.com/DarkBoy-js"><img src="https://avatars3.githubusercontent.com/u/71411869?s=400&u=7f8e4008818e748e390cfcaf1db4b33f42c8b06e&v=4" width="100px;" alt=""/><br /><sub><b>Darkboy 🍭</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkBoy-js" title="Developer">💻</a></td>
      <td align="center"><a href="https://github.com/DarkNoahDev"><img src="https://avatars0.githubusercontent.com/u/69770663?s=400&u=36114e7f2420e48c3fbe622849e4cf35c710bb94&v=4" width="100px;" alt=""/><br /><sub><b>DarkNoah</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkNoahDev" title="Developer">💻</a></td>
        <td align="center"><a href="https://github.com/Creator-cmd"><img src="https://cdn.discordapp.com/avatars/730431456006111323/a_cef1312dd7225f83abc06e170142777e.gif?size=1024" width="100px;" alt=""/><br /><sub><b>Creator🌙</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=Creator-cmd" title="Developer">💻</a></td>
- <td align="center"><a href=="https://github.com/Creator-cmd"><img src="https://cdn.discordapp.com/avatars/581752425858203659/afe35f70664bb89a92f8be8615e63873.png?size=1024" width="100px;" alt=""/><br /><sub><b>ImPoStoR</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=sujalgoel" title="Developer">💻</a></td>
-    <td align="center"><a href="https://github.com/Anime-pdf"><img src="https://cdn.discordapp.com/avatars/389343709986160642/a_04a8f05cbbd6aa6eb0916ce4e1a0bd9b.gif?size=1024" width="100px;" alt=""/><br /><sub><b>uwu</b></sub></a><br /><a href="https://github.com/Anime-pdf/Invite-Manager-Discord" title="Developer">💻</a></td>
   </tr>
   
 </table>
