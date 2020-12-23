@@ -69,7 +69,7 @@
 
 <a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/devs"/></a>
 <br><br>
-
+</div>
 ## Note 
 We have hided most of our codes over GitHub and can only be accessed by boosters on request.
 
