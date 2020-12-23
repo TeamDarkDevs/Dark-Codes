@@ -74,7 +74,7 @@
 ## Note 
 We have hided most of our codes over GitHub and can only be accessed by boosters on request.
 
-### Code
+## Code
 - Invite Manager
 - Levelling System
 - Anti Swear Bot
