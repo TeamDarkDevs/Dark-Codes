@@ -14,7 +14,7 @@
 <br>
 <br>
 
- :warning: **All our work is licensed so don't forget to give us credits!**
+ :warning: **All of our work is licensed.So, don't forget to give us credits!**
 
 <br><br>
 
@@ -69,3 +69,6 @@
 
 <a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/devs"/></a>
 <br><br>
+
+## Note 
+We have hided most of our codes over our GitHub and can only be accessed by boosters on request.
