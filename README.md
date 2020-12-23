@@ -79,11 +79,5 @@
 
 ## 📝 Discord Server
 
-<a href="https://discord.gg/devs"><img src="https://discordapp.com/api/guilds/733807204938940447/embed.png?style=banner3"/></a>
+<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/devs"/></a>
 <br><br>
-
-
-
-
-
-
