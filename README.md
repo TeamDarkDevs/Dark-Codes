@@ -72,3 +72,14 @@
 
 ## Note 
 We have hided most of our codes over GitHub and can only be accessed by boosters on request.
+
+### Code
+- Invite Manager
+- Levelling System
+- Anti Swear Bot
+- Suggestion Bot
+- Alts Terminator
+- Reaction Role
+- Giveaway Bot
+- Vouch Bot
+- Anti Raid
