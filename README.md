@@ -32,7 +32,6 @@
      <td align="center"><a href="https://github.com/DarkNoahDev"><img src="https://avatars0.githubusercontent.com/u/69770663?s=400&u=36114e7f2420e48c3fbe622849e4cf35c710bb94&v=4" width="100px;" alt=""/><br /><sub><b>DarkNoah</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkNoahDev" title="Developer">💻</a></td>
        <td align="center"><a href="https://github.com/Creator-cmd"><img src="https://cdn.discordapp.com/avatars/730431456006111323/a_cef1312dd7225f83abc06e170142777e.gif?size=1024" width="100px;" alt=""/><br /><sub><b>Hexxx🌙</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=Creator-cmd" title="Developer">💻</a></td>
     <td align="center"><a href="https://github.com/sujalgoel"><img src="https://github.com/sujalgoel.png" width="100px;" alt=""/><br /><sub><b>ImPoStoR</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=sujalgoel" title="Developer">💻</a></td>
- <td align="center"><a href="https://github.com/Koolwiza"><img src="https://avatars0.githubusercontent.com/u/72822494?s=460&u=936b3978c2459bd7abaccc7035eede7937b7470c&v=4" width="100px;" alt=""/><br /><sub><b></> Kool</b></sub></a><br /></td>
   </tr>
   
 </table>
