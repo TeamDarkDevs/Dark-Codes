@@ -71,4 +71,4 @@
 <br><br>
 
 ## Note 
-We have hided most of our codes over our GitHub and can only be accessed by boosters on request.
+We have hided most of our codes over GitHub and can only be accessed by boosters on request.
