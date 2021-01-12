@@ -29,8 +29,7 @@
   <tr>
      <td align="center"><a href="https://github.com/DeltaCoderr"><img src="https://avatars0.githubusercontent.com/u/51528076?s=460&u=d1e28ca661a14f0b3428cc07dd410f36f891966b&v=4" width="100px;" alt=""/><br /><sub><b>DeltaCoderr ✨</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DeltaCoderr" title="Developer">💻</a></td>
      <td align="center"><a href="https://github.com/DarkBoy-js"><img src="https://avatars3.githubusercontent.com/u/71411869?s=400&u=7f8e4008818e748e390cfcaf1db4b33f42c8b06e&v=4" width="100px;" alt=""/><br /><sub><b>Darkboy 🍭</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkBoy-js" title="Developer">💻</a></td>
-     <td align="center"><a href="https://github.com/DarkNoahDev"><img src="https://avatars0.githubusercontent.com/u/69770663?s=400&u=36114e7f2420e48c3fbe622849e4cf35c710bb94&v=4" width="100px;" alt=""/><br /><sub><b>DarkNoah</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkNoahDev" title="Developer">💻</a></td>
-       <td align="center"><a href="https://github.com/Hexxx-Cmd"><img src="https://github.com/Hexxx-Cmd.png" width="100px;" alt=""/><br /><sub><b>Hexxx🌙</b></sub></a><br /><a href="https://github.com/Hexxx-Cmd" title="Developer">💻</a></td>
+    <td align="center"><a href="https://github.com/Hexxx-Cmd"><img src="https://github.com/Hexxx-Cmd.png" width="100px;" alt=""/><br /><sub><b>Hexxx🌙</b></sub></a><br /><a href="https://github.com/Hexxx-Cmd" title="Developer">💻</a></td>
     <td align="center"><a href="https://github.com/sujalgoel"><img src="https://github.com/sujalgoel.png" width="100px;" alt=""/><br /><sub><b>ImPoStoR</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=sujalgoel" title="Developer">💻</a></td>
   </tr>
   
@@ -67,7 +66,7 @@
 
 ## 📝 Discord Server
 
-<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/devs"/></a>
+<a href="https://discord.gg/TvNTDzDXg9"><img src="https://invidget.switchblade.xyz/TvNTDzDXg9"/></a>
 <br><br>
 </div>
 
