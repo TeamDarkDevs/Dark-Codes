@@ -8,13 +8,8 @@
 <br>
 
  :warning: **All of our work is licensed. So, don't forget to give us credits!**
-
-
 ### [LICENSE](https://license.darkdevs.net/)
-
-
-<br><br>
-
+<br>
 ## ✨ Dark Developers 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/TeamDarkDevs)&nbsp;
 
