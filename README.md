@@ -1,20 +1,17 @@
   <center><a href="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"><img src="https://discord.com/assets/ef555bf639a11bd65ae3065263788bba.png"></a></center>
 
- <div align=center>
-
-  <a href="https://discord.gg/SaGJ8hz">
-    <img src="https://discordapp.com/api/guilds/733807204938940447/widget.png?style=shield" alt="shield.png">
-  </a>  
-    
+ <div align=center>    
   <a href="https://github.com/TeamDarkDevs/DarkDevelopers">
     <img src="https://komarev.com/ghpvc/?username=TeamDarkDevs" alt="shield.png">
   </a>
-  
-  
 <br>
 <br>
 
- :warning: **All of our work is licensed.So, don't forget to give us credits!**
+ :warning: **All of our work is licensed. So, don't forget to give us credits!**
+
+
+# [LICENSE](https://license.darkdevs.net/)
+
 
 <br><br>
 
