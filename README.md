@@ -9,13 +9,10 @@
 
  :warning: **All of our work is licensed. So, don't forget to give us credits!**
 ### [LICENSE](https://license.darkdevs.net/)
-<br>
-## ✨ Dark Developers 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/TeamDarkDevs)&nbsp;
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+<br>
+
+## ✨ Dark Developers
 
 <table>
   <tr>
