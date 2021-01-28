@@ -10,7 +10,7 @@
  :warning: **All of our work is licensed. So, don't forget to give us credits!**
 
 
-# [LICENSE](https://license.darkdevs.net/)
+### [LICENSE](https://license.darkdevs.net/)
 
 
 <br><br>
