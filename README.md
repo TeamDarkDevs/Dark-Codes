@@ -19,7 +19,6 @@
      <td align="center"><a href="https://github.com/DeltaCoderr"><img src="https://avatars0.githubusercontent.com/u/51528076?s=460&u=d1e28ca661a14f0b3428cc07dd410f36f891966b&v=4" width="100px;" alt=""/><br /><sub><b>DeltaCoderr ✨</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DeltaCoderr" title="Founder">👑</a></td>
      <td align="center"><a href="https://github.com/DarkBoy-js"><img src="https://avatars3.githubusercontent.com/u/71411869?s=400&u=7f8e4008818e748e390cfcaf1db4b33f42c8b06e&v=4" width="100px;" alt=""/><br /><sub><b>Darkboy 🍭</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=DarkBoy-js" title="Founder">👑</a></td>
     <td align="center"><a href="https://github.com/Hexxx-Cmd"><img src="https://github.com/Hexxx-Cmd.png" width="100px;" alt=""/><br /><sub><b>Hexxx🌙</b></sub></a><br /><a href="https://github.com/Hexxx-Cmd" title="Founder">👑</a></td>
-    <td align="center"><a href="https://github.com/sujalgoel"><img src="https://github.com/sujalgoel.png" width="100px;" alt=""/><br /><sub><b>ImPoStoR</b></sub></a><br /><a href="https://github.com/houseofgeeks/hg/commits?author=sujalgoel" title="Developer">💻</a></td>
   </tr>
   
 </table>
