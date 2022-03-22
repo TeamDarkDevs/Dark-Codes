@@ -53,8 +53,8 @@
 </p>
 
 ## 📝 Discord Server
-
-<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/devs"/></a>
+Currently Shutdown
+<a href=""><img src=""/></a>
 <br><br>
 </div>
 
